@@ -768,6 +768,22 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 
 **查核規則更新：** 以單一第三方頁面為線索，至少再找一個獨立來源或遊戲內／官方資訊核對；如果來源不一致，標出分歧，不強行選一個看似完整的答案。玩家留言只能證明玩家遇過某種情況，不能單獨證明遊戲機制。無法驗證的數值、解鎖點、繁中譯名先刪除或標為待確認。
 
+### Hideout Guides：新手攻略與角色 Tier List 的使用方式
+
+使用者提供的 [Hideout Guides《Epic Seven Tier List》](https://www.hideoutgacha.com/games/epic-seven/tier-list) 已加入參考來源。不過，這個頁面目前主要展示 **Fall 2026、Champion+ 的 RTA（即時競技場）角色使用率**，頁面標示資料來自 epic7rtastats，並非「所有玩法通用的角色強度榜」，也不是新手 PvE 推進順序。高使用率代表高段位玩家在該賽季常選，不代表新帳號最值得先練；低使用率也不代表角色在龍討伐、深淵、迷宮或其他 PvE 內容沒有價值。
+
+同一網站另有 [Epic Seven Beginner Guide](https://www.hideoutgacha.com/games/epic-seven/beginner-guide)，它比 Tier List 更適合用來交叉核對新手流程、資源用途、角色保留原則、連結角色、月光祝福、討伐隊伍和裝備農場。該指南也包含具體的角色評價與資源建議，這些仍屬第三方編輯觀點，不能直接當成官方規則；像「哪一位英雄最好」、「水晶大多拿去刷新秘密商店」等建議，應標示為策略取捨，並依帳號缺角、金幣、裝備與目標玩法調整。
+
+**本攻略採用方式：**
+- **角色評價分用途看：** RTA 使用率用來觀察當季 PvP 趨勢；PvE 是否好用，另看對應副本的機制、隊伍示例和可取得性。
+- **新手先看可執行的進度：** 優先核對遊戲內任務、免費裝備、連結角色和討伐挑戰；不會因為某英雄在 RTA 排名高，就直接建議新手抽取或投入資源。
+- **不要把統計數字誤讀成強度分數：** Tier List 頁面所列的選用次數／占比，是該頁標示賽季與段位的使用資料，不等同勝率、單挑能力、PvE 效率或新手投資報酬。
+- **版本與樣本要一起記錄：** 引用 Tier List 時保留賽季、段位、模式和資料來源；若頁面更新，重新查核後再調整攻略。
+
+來源：
+- [Hideout Guides — Epic Seven Tier List](https://www.hideoutgacha.com/games/epic-seven/tier-list)：Fall 2026 Champion+ RTA 使用率；用於觀察 PvP 選用趨勢，不當作全模式角色排名。
+- [Hideout Guides — Epic Seven Beginner Guide](https://www.hideoutgacha.com/games/epic-seven/beginner-guide)：新手資源、角色保留、連結角色、月光祝福、系統解鎖與討伐進度的交叉參考。
+
 ### CeciliaBot：英雄資料、技能檢視與迷宮露營模擬器
 
 使用者提供的 [CeciliaBot 官方資訊頁](https://ceciliabot.github.io/#/official-info/) 已納入本攻略的查核工具清單。CeciliaBot 是社群維護的《第七史詩》資料／工具網站，不是遊戲營運方的官方公告來源；其公開首頁介紹英雄與神器資料庫，並提供露營模擬器等工具，原始碼也公開於 [CeciliaBot/E7Tools](https://github.com/CeciliaBot/E7Tools)。因此，**把它當成查資料與規劃的工具，不要把它當成官方規則的最終裁定**。
