@@ -821,7 +821,7 @@ Hideout 把穩定農龍討伐第 13 階段視為前期重要目標，因為速�
 
 遊戲內的成長資源並非同一種經驗：英雄等級、友情度、裝備經驗與神器經驗各有不同用途。英雄等級主要用企鵝提升；友情度透過帶角色通關或送禮累積，達到指定等級後會提供技能點與其他獎勵；裝備與神器則使用各自對應的強化材料。清理裝備時，依品質、等級、套裝和副屬性決定出售、萃取或保留，不要只因為裝備低階就無條件處理。背景戰鬥可讓指定角色在重播已保存的討伐成果時累積友情度，但實際隊伍設定與功能限制請看客戶端說明。
 
-### 6. 優先取得的免費英雄（連結英雄 Connections）
+### 6. 優先取得的免費英雄（連結英雄）
 
 Hideout 特別列出以下英雄與用途，這是培養方向而非要求所有帳號照同一順序投資：
 
@@ -875,7 +875,7 @@ Hideout 按大致進度整理出主線、符文祭壇、聖域、深淵、迷宮
 
 Hideout 建議從新手討伐挑戰任務著手，逐步取得 武蔚（Muwi）、賽珂蘭特（Sigret）、布里克（Brieg；名稱待客戶端核對） 等隊伍成員或替代選項。常見分工為坦克、弱化／破防角色、支援與輸出；具體名單要看帳號已擁有英雄、免費任務獎勵與裝備狀況。尤貝烏斯（Furious；名稱待客戶端核對） 通常負責關鍵弱化與破防；武蔚（Muwi） 可支援輸出與行動條；賽珂蘭特（Sigret） 或 芬妮（Fenne；名稱待客戶端核對） 可作為輸出選擇；布里克（Brieg；名稱待客戶端核對） 是另一個坦克方案。不要把任何一隊當成唯一解，也不要把別人高裝備的一回合影片當作新手的最低門檻。若失敗不消耗行動力的規則仍適用，可以把嘗試視為測試；實際消耗仍以客戶端提示為準。
 
-### 12. 創世拉斯（Genesis Ras；名稱待客戶端核對） 任務線
+### 12. 創世拉斯（Genesis Ras；名稱待客戶端核對）任務線
 
 主線解鎖後，創世拉斯（Genesis Ras；名稱待客戶端核對）的多階段任務會給予英雄與刻印相關獎勵。Hideout 建議把每日任務、雙貨幣累積、拆解多餘的 +9 強化的裝備與交付材料分散到日常流程中完成。不要為了趕進度而拆掉仍有用途的裝備；先確認任務要求與裝備價值。
 
@@ -905,12 +905,12 @@ Hideout 建議持續打競技場以獲得週期性天空石，也把它當作熟
 
 Hideout 列出的中後期系統包括：
 - **阿茲馬卡利斯（Azmakalis）／Cycle：** 推進王關與探索度後開啟更深入的迷宮內容；注意先完成相關探索要求。
-- **冒險（Advent）：** 輪替的多階段首領活動，通常需要多支英雄隊伍，能提供副屬性材料、套裝選擇與召喚資源。
+- **冒險玩法（Advent）：** 輪替的多階段首領活動，通常需要多支英雄隊伍，能提供副屬性材料、套裝選擇與召喚資源。
 - **星座試煉（Trial of the Constellations；名稱待客戶端核對）：** 依星座、屬性和祝福系統配置隊伍，依賽季取得一次性首通獎勵。
 - **選角競技場（Draft Arena）：** 使用預設英雄的選擇玩法，偏向練習與娛樂，也可能出現在新手任務中。
 - **月光劇場（Moonlight Theater；名稱待客戶端核對）：** 各章節可取得神秘獎牌等獎勵；某些篇章進度也會影響額外月光祝福的開放條件。
 - **回憶之書（Book of Memories；名稱待客戶端核對）：** 已退役的特殊支線故事入口，可能包含里程碑獎勵；依 繼承者之路（Path of Heir；名稱待核對）與當前可用內容安排。
-- **世界競技場（World Arena／RTA）：** 即時 玩家對玩家（PvP）選角對戰。可先領取可取得的免費裝備獎勵、完成定位賽；若以外觀獎勵為目標，先查看當季段位與期限。
+- **世界競技場（World Arena／RTA）：** 即時玩家對玩家（PvP）選角對戰。可先領取可取得的免費裝備獎勵、完成定位賽；若以外觀獎勵為目標，先查看當季段位與期限。
 - **匕首席卡（Dagger Sicar；名稱待客戶端核對）：** 一次性挑戰任務，依自身遠征進度挑選有價值的獎勵目標。
 這些玩法不必在新手初期同時追求；先把主線、英雄基本培養和討伐裝備建立起來。
 
@@ -945,65 +945,65 @@ Hideout 的新手攻略章節結尾引導玩家使用英雄資料庫、神器資
 
 以下以中文名稱優先、英文原名括號保留，方便對照 Hideout 原文與資料庫。角色名稱以繁中玩家常用譯名整理；不同伺服器／客戶端若顯示不同，請以台灣繁體中文版遊戲內英雄圖鑑為準。系統名稱有些是說明性翻譯，未能確定為客戶端逐字名稱者已標示「待核對」，不當作官方譯名。
 
-| 英文名稱 | 中文對照 |
+| 英文名稱 | 繁體中文對照 |
 |---|---|
-| 尤貝烏斯（Furious；名稱待客戶端核對） | 尤貝烏斯（尤貝烏斯（Furious；名稱待客戶端核對）；請以客戶端核對） |
-| 塔瑪林爾（Tamarinne） | 塔瑪林爾 |
-| 冒險家拉斯（Adventurer Ras） | 冒險家拉斯 |
-| 指揮官蘿里娜（Commander Lorina） | 指揮官蘿里娜 |
-| 卡蜜拉（Camilla） | 卡蜜拉 |
-| 伊賽麗亞（Iseria） | 伊賽麗亞 |
-| 自由之魂黛莉亞（Free Spirit Tieria；名稱待客戶端核對） | 永恆不變的黛莉亞（自由之魂黛莉亞（Free Spirit Tieria；名稱待客戶端核對）；請以客戶端核對） |
-| 維若妮卡（Veronica；名稱待客戶端核對） | 維若妮卡（維若妮卡（Veronica；名稱待客戶端核對）；請以客戶端核對） |
-| 海邊的維爾蘿娜（Seaside Bellona） | 海邊的維爾蘿娜 |
-| 武蔚（Muwi） | 武蔚 |
-| 賽珂蘭特（Sigret） | 賽珂蘭特 |
-| 布里克（Brieg；名稱待客戶端核對） | 布里克（布里克（Brieg；名稱待客戶端核對）；請以客戶端核對） |
-| 龍討伐（Wyvern Hunt） | 龍討伐 |
-| 魔像 Hunt | 巨像討伐 |
-| 女妖 Hunt | 女妖討伐 |
-| 阿吉曼夏克（Azimanak；名稱待客戶端核對） Hunt | 阿茲馬卡利斯討伐 |
-| 凱德斯（Caides；名稱待客戶端核對） Hunt | 凱德斯討伐 |
-| 食人魔討伐（Ogre Hunt；名稱待客戶端核對） | 食人魔討伐（名稱待核對） |
-| 異界裂縫（Otherworldly Breach；名稱待客戶端核對） | 異界裂縫（名稱待核對） |
-| 裂縫（Rift） | 裂縫 |
-| 速度套裝（Speed Set） | 速度套裝 |
-| 命中套裝（Hit Set） | 命中套裝 |
-| 暴擊套裝（Critical Set） | 暴擊套裝 |
-| 反擊套裝（Counter Set） | 反擊套裝 |
-| 破壞套裝（Destruction Set） | 破壞套裝 |
-| 抗性套裝（Resist Set） | 抗性套裝 |
-| 吸血套裝（Lifesteal Set） | 吸血套裝 |
-| 免疫套裝（Immunity Set） | 免疫套裝 |
-| 憤怒套裝（Rage Set） | 憤怒套裝 |
-| 穿透套裝（Penetration Set） | 穿透套裝 |
-| 復仇套裝（Revenge Set） | 復仇套裝 |
-| 傷口套裝（Injury Set） | 傷口套裝 |
-| 激流套裝（Torrent Set） | 激流套裝 |
-| 效果命中（Effectiveness） | 效果命中 |
-| 效果抗性（Effect Resistance） | 效果抗性 |
-| 摩拉哥拉（Molagora） | 摩拉哥拉 |
+| Furious | 尤貝烏斯（名稱待客戶端核對） |
+| Tamarinne | 塔瑪林爾 |
+| Adventurer Ras | 冒險家拉斯 |
+| Commander Lorina | 指揮官蘿里娜 |
+| Camilla | 卡蜜拉 |
+| Iseria | 伊賽麗亞 |
+| Free Spirit Tieria | 自由之魂黛莉亞（名稱待客戶端核對） |
+| Veronica | 維若妮卡（名稱待客戶端核對） |
+| Seaside Bellona | 海邊的維爾蘿娜 |
+| Muwi | 武蔚 |
+| Sigret | 賽珂蘭特 |
+| Brieg | 布里克（名稱待客戶端核對） |
+| Fenne | 芬妮（名稱待客戶端核對） |
+| Wyvern Hunt | 龍討伐 |
+| Golem Hunt | 魔像討伐 |
+| Banshee Hunt | 女妖討伐 |
+| Azimanak Hunt | 阿吉曼夏克討伐（名稱待核對） |
+| Caides Hunt | 凱德斯討伐（名稱待核對） |
+| Ogre Hunt | 食人魔討伐（名稱待核對） |
+| Otherworldly Breach | 異界裂縫（名稱待核對） |
+| Rift | 裂縫 |
+| Speed Set | 速度套裝 |
+| Hit Set | 命中套裝 |
+| Critical Set | 暴擊套裝 |
+| Counter Set | 反擊套裝 |
+| Destruction Set | 破壞套裝 |
+| Resist Set | 抗性套裝 |
+| Lifesteal Set | 吸血套裝 |
+| Immunity Set | 免疫套裝 |
+| Rage Set | 憤怒套裝 |
+| Penetration Set | 穿透套裝 |
+| Revenge Set | 復仇套裝 |
+| Injury Set | 傷口套裝 |
+| Torrent Set | 激流套裝 |
+| Effectiveness | 效果命中 |
+| Effect Resistance | 效果抗性 |
+| Molagora | 摩拉哥拉 |
 | Leif | 雌蕊 |
-| 契約書籤（Covenant Bookmarks） | 契約書籤 |
-| 神秘獎牌（Mystic Medals） | 神秘獎牌 |
-| 知識粉末（Powder of Knowledge） | 知識粉末 |
-| 副屬性變更石（Modification Gems） | 副屬性變更石 |
-| 成長的祝福（Grace of Growth） | 成長的祝福（名稱待核對） |
-| 專職變更（Specialty Change） | 專職變更（名稱待核對） |
-| 月光祝福（Moonlight's Blessing） | 月光祝福 |
-| 光輝里程碑（Milestone of Radiance；名稱待客戶端核對） | 光輝里程碑（名稱待核對） |
-| 繼承者之路（Path of Heir；名稱待客戶端核對） | 繼承者之路（名稱待核對） |
-| 史詩通行證（Epic Pass） | 史詩通行證（名稱待核對） |
-| 背景戰鬥（Background Battling） | 背景戰鬥 |
-| 一回合通關隊伍（One-Shot Team） | 一回合通關隊伍 |
-| 刻印迴路（Imprint Circuit；名稱待客戶端核對） | 刻印迴路（名稱待核對） |
-| 即時競技場（RTA） (即時競技場（Real-Time Arena）) | 即時競技場 |
-| 公會戰（Guild War） | 公會戰 |
-| 考驗殿堂（Hall of Trials） | 考驗殿堂 |
-| 自動迷宮塔（Automaton Tower；名稱待客戶端核對） | 自動迷宮塔（名稱待核對） |
-| 秘密商店（Secret Shop） | 秘密商店 |
-| 回憶之書（Book of Memories；名稱待客戶端核對） | 回憶之書（名稱待核對） |
-
+| Covenant Bookmarks | 契約書籤 |
+| Mystic Medals | 神秘獎牌 |
+| Powder of Knowledge | 知識粉末 |
+| Modification Gems | 副屬性變更石 |
+| Grace of Growth | 成長的祝福（名稱待核對） |
+| Specialty Change | 專職變更（名稱待核對） |
+| Moonlight's Blessing | 月光祝福 |
+| Milestone of Radiance | 光輝里程碑（名稱待核對） |
+| Path of Heir | 繼承者之路（名稱待核對） |
+| Epic Pass | 史詩通行證 |
+| Background Battling | 背景戰鬥 |
+| One-Shot Team | 一回合通關隊伍 |
+| Imprint Circuit | 刻印迴路（名稱待核對） |
+| RTA (Real-Time Arena) | 即時競技場 |
+| Guild War | 公會戰 |
+| Hall of Trials | 考驗殿堂 |
+| Automaton Tower | 自動迷宮塔（名稱待核對） |
+| Secret Shop | 秘密商店 |
+| Book of Memories | 回憶之書（名稱待核對） |
 ### CeciliaBot：英雄資料、技能檢視與迷宮士氣模擬器
 
 使用者提供的 [CeciliaBot 官方資訊頁](https://ceciliabot.github.io/#/official-info/) 已納入本攻略的查核工具清單。CeciliaBot 是社群維護的《第七史詩》資料／工具網站，不是遊戲營運方的官方公告來源；其公開首頁介紹英雄與神器資料庫，並提供露營模擬器等工具，原始碼也公開於 [CeciliaBot/E7Tools](https://github.com/CeciliaBot/E7Tools)。因此，**把它當成查資料與規劃的工具，不要把它當成官方規則的最終裁定**。
