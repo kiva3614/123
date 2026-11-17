@@ -696,6 +696,7 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 - [Reddit — Wyvern 13 one-turn team investment（2023）](https://www.reddit.com/r/EpicSeven/comments/170a9d6)：玩家反思追求一回合隊的裝備成本與機會成本。
 - [Reddit — New player struggling with repeat/quick battle（2025）](https://www.reddit.com/r/EpicSeven/comments/1m2hvf8)：手動通關與連續自動戰鬥穩定度的差異，以及效果命中和弱化問題。
 - [Reddit — Updated Beginner Wyvern13 Guide（2022）](https://www.reddit.com/r/EpicSeven/comments/uf9v3t)：玩家對 Muwi、免費裝備與新手龍13門檻的回饋；屬舊版社群討論，僅作經驗參考。
+- [Reddit — Returning player asks what changed（2026-01）](https://www.reddit.com/r/EpicSeven/comments/1qecq3t/hi_i_just_came_back_to_the_game_after_25_years_i/)：留言提到 Brieg、Furious、Muwi、Sigret 的龍討伐方向；這是玩家建議的個案，不能取代當前任務獎勵與自己的隊伍測試。
 - [Epic7Tools — Getting Started（2026-10-29 更新）](https://epic7tools.dev/guides/beginner/)：新手教學、Foundry 伺服器福利、每日免費召喚與功能解鎖。
 - [Epic Seven Foundry — Beginner Guide 2026（2026-10-30 更新）](https://epicsseven.wiki/guides/epic-seven-beginner-guide-2026)：30 天新手路線、第一週以穩定 Hunt 11 為目標，以及 Brieg／Furious／Muwi／Sigret 的討伐核心方向；屬第三方攻略，應與遊戲內任務交叉確認。
 - [Epic7Tools — Steam and Foundry（2026-11-09 更新）](https://epic7tools.dev/guides/steam/)：Foundry 限定福利、既有帳號轉換與內容解鎖時間。
