@@ -682,7 +682,13 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 
 ## 18. 可靠資料與版本核對
 
-攻略資料可能因版本而過時。以下是本次校正時參考的頁面，使用前仍要核對遊戲內實際介面：
+攻略資料可能因版本而過時。以下是本次校正時參考的頁面，使用前仍要核對遊戲內實際介面。
+
+**本攻略的證據標記原則：**
+- **官方公告／客戶端文字：** 優先用於活動期限、系統開放、任務條件與版本改動；若公告寫明特定伺服器，只能套用到該伺服器。
+- **多份近期攻略交叉吻合：** 可作為一般進度建議或常見配隊方向，但仍須保留角色取得、裝備品質和帳號進度等前提。
+- **單篇攻略或單則玩家留言：** 用來發現可能的問題、玩家體驗和分歧，不直接當成普遍規則。
+- **未能由目前來源確認：** 保留英文名、標註待核對，或刪除過度肯定的說法；不要為了讓攻略看起來完整而猜一個答案。
 
 - [Reddit — What am I supposed to do now?（2026-11-10）](https://www.reddit.com/r/EpicSeven/comments/1xsqe0c/what_am_i_supposed_to_do_now/)：新手推完第二章後詢問接下來的方向；留言提到討伐、活動、迷宮、公會與 PvP 等多條進度線。這是個人經驗討論，不代表每個帳號都要照同一順序。
 - [Reddit — Beginner perspective after one week（2026）](https://www.reddit.com/r/EpicSeven/comments/1ukbpa4/my_beginner_perspective_guide_after_1_week_be_a/)：新手視角談新帳號福利、資源管理與裝備門檻。
@@ -691,6 +697,8 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 - [Reddit — New player struggling with repeat/quick battle（2025）](https://www.reddit.com/r/EpicSeven/comments/1m2hvf8)：手動通關與連續自動戰鬥穩定度的差異，以及效果命中和弱化問題。
 - [Reddit — Updated Beginner Wyvern13 Guide（2022）](https://www.reddit.com/r/EpicSeven/comments/uf9v3t)：玩家對 Muwi、免費裝備與新手龍13門檻的回饋；屬舊版社群討論，僅作經驗參考。
 - [Epic7Tools — Getting Started（2026-10-29 更新）](https://epic7tools.dev/guides/beginner/)：新手教學、Foundry 伺服器福利、每日免費召喚與功能解鎖。
+- [Epic Seven Foundry — Beginner Guide 2026（2026-10-30 更新）](https://epicsseven.wiki/guides/epic-seven-beginner-guide-2026)：30 天新手路線、第一週以穩定 Hunt 11 為目標，以及 Brieg／Furious／Muwi／Sigret 的討伐核心方向；屬第三方攻略，應與遊戲內任務交叉確認。
+- [Epic7Tools — Steam and Foundry（2026-11-09 更新）](https://epic7tools.dev/guides/steam/)：Foundry 限定福利、既有帳號轉換與內容解鎖時間。
 - [Epic7Tools — Hunt（2026-10-29 更新）](https://epic7tools.dev/guides/hunt/)：討伐種類、套裝與製作材料方向。
 - [Epic7Tools — Wyvern Hunt](https://epic7tools.dev/bosses/wyvern-hunt/)：龍討伐首領機制、弱化與破盾要求。
 - [Epic Seven Wiki for Beginners — Hunt and Wyvern（2026-09）](https://epic-seven.wiki/guides/hunt/)：免費冰屬核心隊伍、Background Battling 與 Otherworldly Hunt 的現行路線參考。
