@@ -773,7 +773,7 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 - [Epic Seven Foundry — Beginner Guide 2026（2026-10-30 更新）](https://epicsseven.wiki/guides/epic-seven-beginner-guide-2026)：30 天新手路線、第一週以穩定 Hunt 11 為目標，以及 Brieg／Furious／Muwi／Sigret 的討伐核心方向；屬第三方攻略，應與遊戲內任務交叉確認。
 - [Epic7Tools — Steam and Foundry（2026-11-09 更新）](https://epic7tools.dev/guides/steam/)：Foundry 限定福利、既有帳號轉換與內容解鎖時間。
 - [Epic7Tools — Hunt（2026-10-29 更新）](https://epic7tools.dev/guides/hunt/)：討伐種類、套裝與製作材料方向。
-- [Epic7Tools — Wyvern Hunt](https://epic7tools.dev/bosses/wyvern-hunt/)：龍討伐首領機制、弱化與破盾要求。
+- [Epic7Tools — Wyvern Hunt](https://epic7tools.dev/bosses/wyvern-hunt/)：龍討伐首領變體、免疫清單、弱化／破盾機制與多種隊伍方案。
 - [Epic Seven Wiki for Beginners — Hunt and Wyvern（2026-09）](https://epic-seven.wiki/guides/hunt/)：免費冰屬核心隊伍、Background Battling 與 Otherworldly Hunt 的現行路線參考。
 - [巴哈姆特《第七史詩》新手攻略討論](https://forum.gamer.com.tw/C.php?bsn=34880&snA=13072)：繁中社群對龍13與前期討伐的討論；文章年代較早，僅用來理解社群用語，不作為現行系統規則的唯一依據。
 - [Epic7Tools — First Days（2026-11-14 更新）](https://epic7tools.dev/guides/first-days/)：前兩週主線解鎖與新手每日規劃。
@@ -783,7 +783,7 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 - [Epic7DB — First Wyvern 13 Auto Team](https://epic7db.com/guides/setting-up-your-first-wyvern-13-auto-team)：龍討伐機制與隊伍構成。
 - [Epic Seven 官方網站（STOVE）](https://epic7.onstove.com/)：公告、活動與版本更新。
 - [官方 Steam／Foundry 開服公告（Steam Community 官方新聞）](https://steamcommunity.com/app/5019180/allnews/)：用於核對 Foundry 活動期限、既有帳號轉換提醒與新伺服器內容解鎖時程。
-- [Epic7DB — Version 8.7 1st Update Content（2026-10-28）](https://epic7db.com/news/1029-thu-version-87-1st-update-content)：用於核對 10 月 29 日更新的任務條件變更與其他版本細節。
+- [Epic7DB — Version 8.7 1st Update Content（2026-10-28）](https://epic7db.com/news/1029-thu-version-87-1st-update-content)：官方更新公告的第三方鏡像，用於核對月光英雄選擇券、討伐挑戰任務條件變更與其他版本細節。
 - [Epic Seven Wiki for Beginners — Background Battling（2026-09）](https://epic-seven.wiki/guides/background-battling/)：背景戰鬥登錄、寵物、裝備篩選與離線農裝風險的第三方整理；仍須以客戶端實際介面為準。
 - [官方 8 週年活動頁面](https://epic7.onstove.com/en/promotion/anniv/8th)：用於確認 2026 年 8 週年活動的歷史期限；活動已結束。
 
