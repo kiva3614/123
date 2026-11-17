@@ -760,7 +760,7 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 
 ### 本輪資料稽核紀錄（2026-11-17）
 
-這次重新查核後，確認舊稿至少有一項過時規則與一組未能由來源支持的功能解鎖節點，已直接修正，而不是只加上「以遊戲內為準」來掩蓋問題：
+這次重新查核後，確認舊稿至少有一項過時規則需要修正，另有功能解鎖節點必須重新核對章節名稱與來源；已直接修正並保留可查證的依據，而不是只加上「以遊戲內為準」來掩蓋問題：
 
 - **選擇召喚重抽次數：** 舊稿寫「最多 30 組結果」。近期 Epic7DB 的新手指南明確記載選擇召喚可無限重抽，故已移除「最多 30 組」的說法。
 - **功能解鎖節點表：** 重新對照 Epic7Tools 於 2026-11-14 更新的新手路線後，確認「第六世界 3-6 連結、3-8 深淵、4-8 競技場」等節點有近期來源支持；保留這些節點，並明確區分第六世界與 Episode 1，避免把不同章節的編號混用。
@@ -809,6 +809,7 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 - [Epic Seven Wiki for Beginners — Hunt and Wyvern（2026-09）](https://epic-seven.wiki/guides/hunt/)：免費冰屬核心隊伍、Background Battling 與 Otherworldly／Ogre 農裝玩法的路線參考；其中副本分類以遊戲內介面為準。
 - [巴哈姆特《第七史詩》新手攻略討論](https://forum.gamer.com.tw/C.php?bsn=34880&snA=13072)：繁中社群對龍13與前期討伐的討論；文章年代較早，僅用來理解社群用語，不作為現行系統規則的唯一依據。
 - [Epic7Tools — First Days（2026-11-14 更新）](https://epic7tools.dev/guides/first-days/)：前兩週主線解鎖與新手每日規劃。
+- [E7Baron — New Player Progression Guide（Moriyaism 與多位社群貢獻者共同整理）](https://e7baron.com/guides/new-player-progression-guide)：近期新手進度指南；其作者列出多位協助者，並提醒玩家優先參考遊戲內 Help、官方 Discord 的 Guidance Grounds 與 CeciliaBot 等資源。它仍是社群攻略，不等於官方公告；角色建議要與當前遊戲內容交叉核對。
 - [Epic7Tools — Gear（2026-10-28 更新）](https://epic7tools.dev/guides/gear/)：裝備部位、主屬性、副屬性與強化規則。
 - [Epic7Tools — After your first 14 days（2026-11-14 更新）](https://epic7tools.dev/guides/mid-game/)：討伐、自動戰鬥與中期解鎖順序。
 - [Epic7DB — Road to Wyvern 13](https://epic7db.com/guides/early-game-road-to-wyvern-13)：討伐與裝備農場的進度方向。
