@@ -601,7 +601,7 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 
 ### 經驗一：能手動通關，不等於能穩定自動農裝
 
-2025 年一位新手分享，隊伍能通過龍討伐，但在快速／重複戰鬥的連續任務中仍會失敗；回覆者建議檢查弱化角色的效果命中與技能觸發，而不是只看「曾經打贏一次」。這個案例提醒攻略必須教玩家觀察失敗原因，並把成功率當成農場隊的指標，而不只展示通關截圖。
+2025 年一位新手分享，隊伍能手動通過龍討伐，但在當時的快速／重複戰鬥連續任務中仍會失敗；回覆者建議檢查弱化角色的效果命中與技能觸發，而不是只看「曾經打贏一次」。這個案例只用來說明手動通關與自動穩定度不同，不代表目前任務仍採用舊條件；8.7 更新後的任務條件請看前文。
 
 ### 經驗二：龍13 的效果命中門檻不是保證命中
 
@@ -774,7 +774,7 @@ E7 的長期進度很大一部分取決於裝備管理。新手不需要一開�
 - [Epic7Tools — Steam and Foundry（2026-11-09 更新）](https://epic7tools.dev/guides/steam/)：Foundry 限定福利、既有帳號轉換與內容解鎖時間。
 - [Epic7Tools — Hunt（2026-10-29 更新）](https://epic7tools.dev/guides/hunt/)：討伐種類、套裝與製作材料方向。
 - [Epic7Tools — Wyvern Hunt](https://epic7tools.dev/bosses/wyvern-hunt/)：龍討伐首領變體、免疫清單、弱化／破盾機制與多種隊伍方案。
-- [Epic Seven Wiki for Beginners — Hunt and Wyvern（2026-09）](https://epic-seven.wiki/guides/hunt/)：免費冰屬核心隊伍、Background Battling 與 Otherworldly Hunt 的現行路線參考。
+- [Epic Seven Wiki for Beginners — Hunt and Wyvern（2026-09）](https://epic-seven.wiki/guides/hunt/)：免費冰屬核心隊伍、Background Battling 與 Otherworldly／Ogre 農裝玩法的路線參考；其中副本分類以遊戲內介面為準。
 - [巴哈姆特《第七史詩》新手攻略討論](https://forum.gamer.com.tw/C.php?bsn=34880&snA=13072)：繁中社群對龍13與前期討伐的討論；文章年代較早，僅用來理解社群用語，不作為現行系統規則的唯一依據。
 - [Epic7Tools — First Days（2026-11-14 更新）](https://epic7tools.dev/guides/first-days/)：前兩週主線解鎖與新手每日規劃。
 - [Epic7Tools — Gear（2026-10-28 更新）](https://epic7tools.dev/guides/gear/)：裝備部位、主屬性、副屬性與強化規則。
