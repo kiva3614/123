@@ -154,7 +154,7 @@ E7 的許多功能依主線章節或帳號 Rank 解鎖，因此比起照一張�
 ## 6. 新手第一個長期目標：完成討伐挑戰，建立龍討伐隊伍
 
 ### 為什麼新手常先刷龍討伐（Wyvern／俗稱火龍）？
-冰龍會掉落速度等常用裝備套裝，因此許多新手攻略都把它當成早期農裝目標。這是**常見建議，不是唯一正解**；當前遊戲也可能透過新手任務、其他玩法或活動提供裝備。
+龍討伐會掉落速度等常用裝備套裝，因此許多新手攻略都把它當成早期農裝目標。這是**常見建議，不是唯一正解**；當前遊戲也可能透過新手任務、其他玩法或活動提供裝備。
 
 ### 先找「繼承之旅／A Journey to Succession」中的討伐挑戰
 新手不應只靠自己抽角色來湊隊。當前攻略指出，討伐挑戰會分階段提供通關所需角色、裝備和材料。解鎖後：
@@ -167,14 +167,14 @@ E7 的許多功能依主線章節或帳號 Rank 解鎖，因此比起照一張�
 目前社群新手攻略常見的核心角色包括：
 - **Brieg**：坦克／前排選項，依任務和帳號取得狀況使用。
 - **Furious**：重要的破防／弱化手，通常由連結等系統取得。
-- **Muwi**：冰龍隊伍常用的弱化與輸出角色；若未取得，先按攻略使用替代角色，不要停下整個進度。
+- **Muwi**：龍討伐隊伍常用的弱化與輸出角色；若未取得，先按攻略使用替代角色，不要停下整個進度。
 - **Sigret 或 Fenne**：輸出選項。新手挑戰會提供 Sigret；若帳號已擁有 Fenne，較新的攻略指出她可能取代 Sigret 成為該隊的輸出選擇。
 - **Angelica／Angelic Montmorancy（AMomo）或其他可用坦克／治療角色**：依當前任務階段與隊伍需求選擇。
 
 **注意：** 上面是角色職責與常見方向，不代表每個帳號都能立即取得所有角色。請以遊戲內「連結（Connections）」、討伐挑戰和英雄持有狀況確認實際取得路徑。
 
 ### 龍討伐首領的基本機制
-- 冰龍會檢查自身身上的弱化效果；弱化不足時，攻擊目標與隊伍承傷會變得不穩定。
+- 龍討伐首領會檢查自身身上的弱化效果；弱化不足時，攻擊目標與隊伍承傷會變得不穩定。
 - 破防與其他弱化要有足夠的速度和效果命中，才能較穩定地發揮作用。
 - 前排必須能承受攻擊；輸出則要在關鍵階段造成足夠傷害。
 - 當首領進入護盾階段時，隊伍若無法在回合限制內打破護盾，通常會面臨失敗風險。
@@ -298,7 +298,7 @@ E7 的許多功能依主線章節或帳號 Rank 解鎖，因此比起照一張�
 - [Epic7Tools — Getting Started（2026-10-29 更新）](https://epic7tools.dev/guides/beginner/)：新手教學、Foundry 伺服器福利、每日免費召喚與功能解鎖。
 - [Epic7Tools — First Days](https://epic7tools.dev/guides/first-days/)：前期主線與資源規劃。
 - [Epic7DB — Road to Wyvern 13](https://epic7db.com/guides/early-game-road-to-wyvern-13)：討伐與裝備農場的進度方向。
-- [Epic7DB — First Wyvern 13 Auto Team](https://epic7db.com/guides/setting-up-your-first-wyvern-13-auto-team)：冰龍機制與隊伍構成。
+- [Epic7DB — First Wyvern 13 Auto Team](https://epic7db.com/guides/setting-up-your-first-wyvern-13-auto-team)：龍討伐機制與隊伍構成。
 - [Epic Seven 官方網站（STOVE）](https://epic7.onstove.com/)：公告、活動與版本更新。
 - [官方 8 週年活動頁面](https://epic7.onstove.com/en/promotion/anniv/8th)：用於確認 2026 年 8 週年活動的歷史期限；活動已結束。
 
