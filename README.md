@@ -57,6 +57,17 @@
 - 2026 年 8 週年活動的兌換期限已過，不要把 8 週年兌換碼或活動商店內容當成現在仍可領取的福利。
 - 兌換碼、免費召喚、選擇券、活動角色都應先查官方公告或遊戲內活動頁面；過期攻略可能會列出已失效的獎勵。
 
+### 其他新手進度獎勵：不要只盯著抽卡
+
+除了 Foundry 限定活動，近期新手路線也列出帳號 Rank 與成長軌跡的獎勵。由於新手活動可能調整，以下作為「優先檢查清單」，不要把未顯示在自己帳號上的獎勵當成一定能領：
+
+- **Rank 15：** 近期新手指南列出 5★ Iseria 獎勵。
+- **Rank 25：** 近期新手指南列出 5★ 神器 Song of Stars。
+- **Rank 35：** 近期指南列出額外每日免費召喚的階段獎勵。
+- **Milestone of Radiance／Dawning Trajectory：** 檢查第 5 階段的 5★ 月光英雄選擇券；8.7 更新對尚未領取該階段的帳號生效，已領取舊獎勵者不會額外補發。
+
+**做法：** 先打開遊戲內的 Rank 成就、Orbis Guide／Milestone of Radiance 與信箱，逐項確認可領取內容，再決定是否花天空石或使用選擇券。先領取確定免費的進度獎勵，通常比為了補一名角色立刻抽卡更有資訊。
+
 參考：[官方 Steam／Foundry 開服公告](https://steamcommunity.com/app/5019180/allnews/)、[Epic7Tools 新手入門（2026-10-29 更新）](https://epic7tools.dev/guides/beginner/)、[官方 8 週年活動頁面（活動已結束）](https://epic7.onstove.com/en/promotion/anniv/8th)。
 
 ---
